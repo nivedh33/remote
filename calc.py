@@ -10,11 +10,11 @@ def subtract(x, y):
 
 # This function multiplies two numbers
 def multiply(x, y):
-   pass
+   return x*y
 
 # This function divides two numbers
 def divide(x, y):
-   pass
+   return x/y
 
 
 else:
